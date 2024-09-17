@@ -1,2 +1,2 @@
-# charged-geofeed
-Geo-feed for Charged IT Solutions in RFC 8805 format
+# rfc8805-geofeed
+Geofeed for Charged IT Solutions LLC in RFC 8805 format
