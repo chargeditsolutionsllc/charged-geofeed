@@ -1,8 +1,16 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Charged IT Solutions LLC Geofeed,lastupdated (rfc3339): 2024-09-17T00:00:00-04:00
+
+# Phoenix
 23.150.24.0/24,US,US-AZ,Phoenix,
 130.51.94.0/24,US,US-AZ,Phoenix,
 2602:299::/44,US,US-AZ,Phoenix,
+
+# Miami
 23.184.56.0/24,US,US-FL,Miami,
 2602:299:10::/44,US,US-FL,Miami,
+
+# London
+62.60.229.0/24,GB,GB-LND,London,
+2602:299:30::/44,GB,GB-LND,London,
 
